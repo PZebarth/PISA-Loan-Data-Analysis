@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> I used the file 'prosperLoanData.csv' for my analysis. There were 81 columns and not all of them were useful for the data analysis but I left them inplace to maintain the data frame.
+> I used the file 'prosperLoanData.csv' for my analysis. There were 81 columns and not all of them were useful for the data analysis but I left them inplace to maintain the data frame. To understand my analysis you only need to open the EDA_PISA.ipynb file.
 
 
 ## Summary of Findings
